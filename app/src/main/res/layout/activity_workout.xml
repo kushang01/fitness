@@ -54,7 +54,7 @@
             <androidx.constraintlayout.widget.ConstraintLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:background="#fd3"
+                android:background="#39E"
                 android:padding="10dp">
 
                 <TextView
@@ -168,7 +168,7 @@
             <androidx.constraintlayout.widget.ConstraintLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:background="#F234"
+                android:background="#F23456"
                 android:padding="10dp">
 
                 <TextView
@@ -225,7 +225,7 @@
             <androidx.constraintlayout.widget.ConstraintLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:background="#F43"
+                android:background="#FDC"
                 android:padding="10dp">
 
                 <TextView
@@ -282,7 +282,7 @@
             <androidx.constraintlayout.widget.ConstraintLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:background="#158446"
+                android:background="#158"
                 android:padding="10dp">
 
                 <TextView
@@ -396,7 +396,7 @@
             <androidx.constraintlayout.widget.ConstraintLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:background="#fd3"
+                android:background="#fd8"
                 android:padding="10dp">
 
                 <TextView
@@ -453,7 +453,7 @@
             <androidx.constraintlayout.widget.ConstraintLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:background="#F23"
+                android:background="#F188"
                 android:padding="10dp">
 
                 <TextView
