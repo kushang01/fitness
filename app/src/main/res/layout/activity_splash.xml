@@ -13,7 +13,7 @@
         android:id="@+id/splashlogoimage"
         android:layout_width="match_parent"
         android:layout_height="400dp"
-        android:src="@drawable/splashlogo1" />
+        android:src="@mipmap/ic_launcher" />
 
     <com.airbnb.lottie.LottieAnimationView
         android:layout_width="match_parent"
